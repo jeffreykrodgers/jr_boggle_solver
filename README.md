@@ -82,6 +82,8 @@ What we're looking for here is:
 * not slow, the 100x100 board should run in a decent amount of time
 
 To submit your code, just commit all of your changes and push the repo to your own Github account, then send us the link.
+Please do not push solution code to a fork of this repo, because then I'll have to reupload it so people
+don't take the easy way out and copy your solution, and I don't want to do that.
 
 If you have any questions please ask!
 
