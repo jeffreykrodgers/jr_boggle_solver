@@ -80,6 +80,7 @@ What we're looking for here is:
 * good design decisions
 * clean code, code that we wouldn't mind working with every day
 * not slow, the 100x100 board should run in a decent amount of time
+* probably other stuff, maybe write some tests or assertions
 
 To submit your code, just commit all of your changes and push the repo to your own Github account, then send us the link.
 Please do not push solution code to a fork of this repo, because then I'll have to reupload it so people
