@@ -2,7 +2,17 @@
 
 Please see the jr_boggler.py for solving puzzles using command line.
 
-I also wrote a quick tester that compares the output from the boggler app to the solution files for the pre-made boggle boards and indicates if the solver is working. 
+```
+$ python jr_boggler.py < boards/boggle_board_10x10.txt
+```
+
+I also wrote a quick tester that compares the output from the boggler app to the solution files for the pre-made boggle boards and indicates if the solver is working.
+
+```
+$ python jr_tester.py
+```
+
+You can test additional puzzles by changing the puzzle and key variables in the jr_tester.py file
 
 
 # Python Programming Challenge
