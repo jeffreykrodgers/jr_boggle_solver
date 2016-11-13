@@ -12,8 +12,8 @@ out = []
 
 # each cell needs 1 die, so we need at least n*m total dice
 
-n = 3
-m = 3
+n = 15
+m = 15
 area = n * m
 
 for y in xrange(n):

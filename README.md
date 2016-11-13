@@ -1,3 +1,10 @@
+# Solution!
+
+Please see the jr_boggler.py for solving puzzles using command line.
+
+I also wrote a quick tester that compares the output from the boggler app to the solution files for the pre-made boggle boards and indicates if the solver is working. 
+
+
 # Python Programming Challenge
 This challenge is inspired by [Boggle](https://en.wikipedia.org/wiki/Boggle), a classic word finding game.
 
@@ -87,4 +94,3 @@ Please do not push solution code to a fork of this repo, because then I'll have 
 don't take the easy way out and copy your solution, and I don't want to do that.
 
 If you have any questions please ask!
-
